@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Discharge Summary Generator
 
 ## Overview
@@ -41,3 +42,6 @@ Generated files:
 * outputs/discharge_summary.txt
 * outputs/discharge_summary.json
 * outputs/reasoning_trace.json
+=======
+# AI-Discharge-Summary-Agent
+>>>>>>> 6243157ee0461c535c2d8e3a881babe7b368197f
