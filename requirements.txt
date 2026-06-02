@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-openai
+pydantic
+pymupdf
+python-dotenv
+tiktoken
+pandas

@@ -1,0 +1,27 @@
+[
+    {
+        "step": 1,
+        "action": "PDF OCR",
+        "result": "8357 characters extracted"
+    },
+    {
+        "step": 2,
+        "action": "Information Extraction",
+        "result": "Completed"
+    },
+    {
+        "step": 3,
+        "action": "Medication Reconciliation",
+        "result": "Completed"
+    },
+    {
+        "step": 4,
+        "action": "Validation",
+        "result": "Completed"
+    },
+    {
+        "step": 5,
+        "action": "Discharge Summary Generation",
+        "result": "Completed"
+    }
+]
