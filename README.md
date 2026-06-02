@@ -41,5 +41,5 @@ Generated files:
 * outputs/discharge_summary.txt
 * outputs/discharge_summary.json
 * outputs/reasoning_trace.json
-=======
+
 # AI-Discharge-Summary-Agent
