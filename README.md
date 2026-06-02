@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Powered Discharge Summary Generator
 
 ## Overview
